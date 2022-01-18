@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Tech and Problem Solving Skills
+- 🔭 I’m currently working on my Tech and Problem Solving Skills
 - 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on Web Development 
 - 🤔 I’m looking for help with Backend Development
